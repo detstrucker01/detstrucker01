@@ -32,7 +32,7 @@ Tenho 22 anos, moro em Frutal/MG e sou apaixonado por programação e cachorros!
 
 
 
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/detstrucker01/detstrucker01/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
